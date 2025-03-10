@@ -2,11 +2,11 @@ import type { MetaFunction } from '@remix-run/node'
 
 export const meta: MetaFunction = () => {
   return [
-    { title: 'Remix Template' },
+    { title: 'Dripping Liquid' },
     {
       name: 'description',
       content:
-        'This is a template for Remix, including TypeScript, Tailwind CSS, and more.',
+        'This is dripping liquid animation using gooey effect with CSS and SVG.',
     },
   ]
 }
